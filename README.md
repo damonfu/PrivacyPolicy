@@ -1,32 +1,169 @@
-# 扫一扫 Privacy Notice
+# 掃一掃 隐私政策
 
-## Summary
-We at 扫一扫 Software as ("扫一扫") take your privacy seriously. Learn how to control the information that's used and protected when you use the 扫一扫 on your mobile device. Some of the data we need may be considered personal. We treat this data in a special way, as required by law. And we’ll always respect your decisions for how your data is used. When we update this privacy statement or how we use your personal information, we will notify you either by making a notification on our web site and introduction of 扫一扫. From time to time, our privacy notice may change, so please review it periodically.
+## 简介
+掃一掃（以下简称“扫一扫”或“本产品”）是基于Android（安卓）系统的手机应用，是一款商品库存管理以及生活查询类工具。扫一扫由付结丹个人开发者提供。
 
-## Why do we need your camera permission?
-We only process your data only make the fundamental function available on your device. We process this data with respect to your fundamental right to privacy, including the need to protect personal integrity and private life and to ensure that your personal data is of adequate quality. Unless otherwise stated, we determine the purposes for and manners in which your data is collected.
-The purpose of data:
-Basic function for scanning We do not collect your personal information when you using our product, such as name, phone number.
+本应用依照以下协议向您提供本协议涉及的相关服务。请您使用本公司服务前仔细阅读本协议。 您只有完全同意所有协议，才能成为本公司的用户（以下简称"用户"）并使用相应服务。您开始使用本产品即表示您已仔细阅读并明确同意遵守本协议以及经参引而并入其中的所有条款、政策以及指南，并受该等规则的约束（以下简称"本协议"）。我们可能根据法律法规的要求或业务运营的需要，对本协议不时进行修改。除非另有规定，否则任何变更或修改将在修订内容于本公司发布之时立即生效，您对本公司的使用、继续使用将表明您接受此等变更或修改。如果您不同意本协议（包括我们可能不定时对其或其中引述的其他规则所进行的任何修改）的全部规定，则请勿使用本公司提供的所有服务，或您可以主动取消本公司提供的服务。 为了便于您了解适用于您使用本公司的条款和条件，我们将在本公司上发布我们对本协议的修改，您应不时地审阅本协议以及经参引而并入其中的其他规则。
 
-## How do we need your Device data?
-Until such time as you instruct "扫一扫" to delete your account. Your account will be permanently deleted within 60 days of the account deletion request.
+## App调用权限说明
+允许程序访问设备电话状态"uses-permission android:name=android.permission.READ_PHONE_STATE获取设备唯一标识符，用于登录注册真实用户的依据、广告SDK形成特征标签，向您提供更多相关广告、收集统计应用产生的BUG信息，以便我们改进产品。
 
-## How do we need your Locations?
-Data is retained for a period of 24 hours from the time of the relevant interaction and then permanently deleted.
+允许程序访问有关GSM网络信息"uses-permission android:name=android.permission.ACCESS_NETWORK_STATE获取网络状态，用于提供在线服务功能。
 
-## How do we protect your data?
-We treat your personal data as required by law. We are a Chinese group and we follow Chinese data-security laws as well as other national legislation. Our commitment to your privacy does not extend to third-party products and services you may access from 扫一扫 and services.
+允许程序访问Wi-Fi网络状态信息"uses-permission android:name=android.permission.ACCESS_WIFI_STATE获取WiFi状态，用于判断网络质量，精准识别二维码条码。
 
-## How do we share your data?
-We do not share your data.
+允许程序打开网络套接字“uses-permission android:name=android.permission.INTERNET”访问网络，用于提供在线服务功能。
 
-## What else you should know
-We aim to be transparent as to what data we need and how we use it. Your rights are not limited to consent. If you’ve provided personal information to us, you may change or modify this information at any time.
+请求访问使用照相设备“uses-permission android:name=android.permission.CAMERA”拍照权限，用于拍照扫码功能正常使用。
 
-## Contact information
-If you still have any question about your privacy, you can contact us. And we will reply to you as soon as possible.
-Via group
-email: inmanfu@gmail.com
-or post at:
-nanshan
-Shenzhen guangdong china
+访问闪光灯“uses-permission android:name=android.permission.FLASHLIGHT”使用闪光灯，用于拍照扫码功能夜间使用。
+
+允许访问振动设备“uses-permission android:name="android.permission.VIBRATE”使用震动，用于扫码功能提醒使用。
+
+写入外部存储“uses-permission android:name=android.permission.WRITE_EXTERNAL_STORAGE”允许程序写入外部存储，如SD卡上写文件，用于提供数据导入导出分享使用。
+
+2.1 当你使用扫一扫账号服务时，为保障你正常使用我们的服务，维护我们服务的正常运行，改进和优化我们的服务体验以及保障你的账号安全，我们会收集你的设备型号、操作系统、唯一设备标识符（指由设备制造商编入到设备种的一串字符，可用于以独有方式标识相应设备）等信息，这类信息是为提供服务必须收集的基础信息。我们不会向任何第三方分享您的相关信息。除本政策约定外，我们无法保证其他第三方不会通过其他途径获知您个人身份等情况，由此造成您的损失的，您应向第三方追偿。
+
+2.2 您在访问、使用使用本应用服务时，必须提供本人真实的个人信息，且您应该根据实际变动情况及时更新个人信息。保护用户隐私是我们的重点原则，我们通过各种技术手段和强化内部管理等办法提供隐私保护服务功能，充分保护您的个人信息安全
+
+2.3 本应用开发者不负责审核您提供的个人信息的真实性、准确性或完整性，因信息不真实、不准确或不完整而引起的任何问题及其后果，由您自行承担，且您应保证我们免受由此而产生的任何损害或责任。若我们发现您提供的个人信息是虚假、不准确或不完整的，我们有权自行决定终止向您提供服务。
+
+2.4 您已明确授权，为提供服务、履行协议、解决争议、保障交易安全等目的，我们对您提供的、我们自行收集的及通过第三方收集的您的个人信息、您申请服务时的相关信息、您在使用服务时储存在本公司的非公开内容以及您的其他个人资料（以下简称“个人资料”）享有留存、整理加工、使用和披露的权利，具体方式包括但不限于：
+
+（1）出于为您提供服务的需要在本公司公示您的个人资料；
+
+（2）由人工或自动程序对您的个人资料进行获取、评估、整理、存储；
+
+（3）使用您的个人资料以改进本公司的设计和推广；
+
+（4）使用您提供的联系方式与您联络并向您传递有关服务和管理方面的信息；
+
+（5）对您的个人资料进行分析整合并向为您提供服务的第三方提供为完成该项服务必要的信息。当为您提供服务的第三方与您电话核实信息时，为保证为您服务的质量，你同意本公司对上述核实电话进行录音。
+
+（6）在您违反与我们或我们的其他用户签订的协议时，披露您的个人资料及违约事实，将您的违约信息写入黑名单并与必要的第三方共享数据，以供我们及第三方审核、追索之用。
+
+（7）其他必要的使用及披露您个人资料的情形。您已明确同意本条款不因您终止使用本公司服务而失效。如因我们行使本条款项下权利使您遭受损失，我们对该等损失免责。
+
+2.5 为更好地为您提供服务，您同意并授权本公司可与其合作的第三方进行联合研究，并可将通过本协议获得的您的信息投入到该等联合研究中。但本公司与其合作的第三方在开展上述联合研究前，应要求其合作的第三方对在联合研究中所获取的您的信息予以保密。
+
+2.6 为更好地为您提供服务，您理解并同意在您注册成为本公司会员时，本公司有权调取并保存您的手机位置信息、通讯录、通话记录以及短信（包括但不限于短信内容、短信时间、发送对象等）。
+
+2.7 我们保证采用行业惯例以保护您的资料，但您理解，鉴于技术限制，我们无法确保用户的个人信息完全不被泄露。
+
+2.8 我们不会向与您无关的第三方恶意出售或免费提供您的个人资料，但下列情况除外：
+
+（1）事先获得您的明确授权；
+
+（2）按照相关司法机构或政府主管部门的要求；
+
+（3）以维护我们合法权益之目的；
+
+（4）维护社会公众利益；
+
+（5）为了确保本公司业务和系统的完整与操作。
+
+（6）符合其他合法要求。
+
+## 第三方SDK
+本产品部分功能，如友盟数据统计，由我们合作的第三方提供，在您使用本产品过程种，这些第三方会依据自由隐私政策收集、处理相关信息，以提供更优质的服务。您可点击如下第三方隐私政策链接，了解第三方收集处理信息的具体规则。
+
+功能	名称	用途	隐私政策
+数据统计	友盟统计	上传用户行为信息和应用崩溃日志，用于提升用户体验和产品功能稳定性	友盟隐私政策
+广告	穿山甲、优量汇	上传用户设备信息，在应用中展示广告	穿山甲隐私政策 优量汇隐私政策
+免责声明：我们尊重并保护您的个人隐私，如第三方平台违反其隐私政策给您带来损失，您需要联系第三方平台维护自身权利，我们将提供尽可能必要的帮助并停止使用第三方平台的合作并保留依法追究责任的权利。
+
+## 服务变更、中断或终止
+如因升级的需要而需暂停网络服务、或调整服务内容，我们将尽可能在网站上进行通告。由于用户未能及时浏览通告而造成的损失，我们不承担任何责任。
+
+您明确同意，我们保留根据实际情况随时调整本公司提供的服务内容、种类和形式，或自行决定授权第三方向您提供原本我们提供的服务。因业务调整给您或其他用户造成的损失，我们不承担任何责任。同时，我们保留随时变更、中断或终止本公司全部或部分服务的权利。
+
+发生下列任何一种情形，我们有权单方面中断或终止向您提供服务而无需通知您，且无需对您或第三方承担任何责任：
+
+(1) 您提供的个人资料不真实；
+
+(2) 您违反本协议；
+
+(3) 未经我们书面同意，将本公司平台用于商业目的。
+
+您可随时通知我们终止向您提供服务或直接取消本公司服务。自您终止或取消服务之日起，我们不再向您承担任何形式的责任。
+
+## 免责声明
+本应用是一个开放平台，用户将文章或照片等个人资料上传到互联网上，有可能会被其他组织或个人复制、转载、擅改或做其它非法用途，用户必须充分意识此类风险的存在。作为网络服务的提供者，我们对用户在任何论坛、个人主页或其它互动区域提供的任何陈述、声明或内容均不承担责任。您明确同意使用本公司服务所存在的风险或产生的一切后果将完全由您自身承担，我们对上述风险或后果不承担任何责任。
+
+您违反本协议、违反道德或法律的，侵犯他人权利（包括但不限于知识产权）的，我们不承担任何责任。同时，我们对任何第三方通过本公司发送服务或包含在服务中的任何内容不承担责任。
+
+对您、其他用户或任何第三方发布、存储或上传的任何内容或由该等内容导致的任何损失或损害，我们不承担责任。
+
+对任何第三方通过本公司可能对您造成的任何错误、中伤、诽谤、诬蔑、不作为、谬误、淫秽、色情或亵渎，我们不承担责任。
+
+对黑客行为、计算机或手机病毒、或因您保管疏忽致使帐号、密码被他人非法使用、盗用、篡改的或丢失，或由于与本公司链接的其它网站所造成您个人资料的泄露，或您因其他非本公司原因造成的损失，我们不承担责任。如您发现任何非法使用用户帐号或安全漏洞的情况，请立即与我们联系。
+
+因任何非本公司原因造成的网络服务中断或其他缺陷，我们不承担任何责任。
+
+我们不保证服务一定能满足您的要求；不保证服务不会中断，也不保证服务的及时性、安全性、准确性。
+
+任何情况下，因使用本公司而引起或与使用本公司有关的而产生的由我们负担的责任总额，无论是基于合同、保证、侵权、产品责任、严格责任或其它理论，均不得超过您因访问或使用本公司而向我们支付的任何服务费用。
+
+## 使用准则
+您在使用本应用服务过程中，必须遵循国家的相关法律法规，不通过本公司发布、复制、上传、散播、分发、存储、创建或以其它方式公开含有以下内容的信息：
+
+(1) 反对宪法所确定的基本原则的；
+
+(2) 危害国家安全，泄露国家秘密，颠覆国家政权，破坏国家统一的；
+
+(3) 损害国家荣誉和利益的；
+
+(4) 煽动民族仇恨、民族歧视，破坏民族团结的；
+
+(5) 破坏国家宗教政策，宣扬邪教和封建迷信的；
+
+(6) 散布谣言，扰乱社会秩序，破坏社会稳定的；
+
+(7) 散布淫秽、色情、赌博、暴力、凶杀、恐怖或者教唆犯罪的、欺诈性的或以其它令人反感的讯息、数据、信息、文本、音乐、声音、照片、图形、代码或其它材料；
+
+(8) 侮辱或者诽谤他人，侵害他人合法权益的；
+
+(9) 其他违反宪法和法律、行政法规或规章制度的；
+
+(10) 可能侵犯他人的专利、商标、商业秘密、版权或其它知识产权或专有权利的内容；
+
+(11) 假冒任何人或实体或以其它方式歪曲您与任何人或实体之关联性的内容；
+
+(12) 未经请求而擅自提供的促销信息、政治活动、广告或意见征集；
+
+(13) 任何第三方的私人信息，包括但不限于地址、电话号码、电子邮件地址、身份证号以及信用卡卡号；
+
+(14) 病毒、不可靠数据或其它有害的、破坏性的或危害性的文件；
+
+(15) 与内容所在的互动区域的话题不相关的内容；
+
+(16) 依我们的自行判断，足以令人反感的内容，或者限制或妨碍他人使用或享受互动区域或本公司的内容，或者可能使我们或我们关联方或其他用户遭致任何类型损害或责任的内容；
+
+(17) 包含法律或行政法规禁止内容的其他内容。
+
+用户不得利用本应用的服务从事下列危害互联网信息网络安全的活动：
+
+(1) 未经允许，进入互联网信息网络或者使用互联网信息网络资源；
+
+(2) 未经允许，对互联网信息网络功能进行删除、修改或者增加；
+
+(3) 未经允许，对进入互联网信息网络中存储、处理或者传输的数据和应用程序进行删除、修改或者增加；
+
+(4) 故意制作、传播计算机或手机病毒等破坏性程序；
+
+(5) 其他危害互联网信息网络安全的行为。
+
+我们保留在任何时候为任何理由而不经通知地过滤、移除、筛查或编辑本应用上发布或存储的任何内容的权利，您须自行负责备份和替换在本公司发布或存储的任何内容，成本和费用自理。
+
+您须对自己在使用本应用服务过程中的行为承担法律责任。若您为限制行为能力或无行为能力者，则您的法定监护人应承担相应的法律责任。
+
+未成年人须在监护人的陪同下使用本产品（或服务），未成年人的监护人应当为未成年人的利益阅读本隐私政策。未成年人如提交个人信息，须取得监护人的同意，并在监护人的指导下完成。若您是未成年人的监护人，当您对您所监护的未成年人的个人信息有疑问时，您可以通过本协议最下方的联系方式与我们联系。
+
+如您的操作影响系统总体稳定性或完整性，我们将暂停或终止您的操作，直到相关问题得到解决。
+
+## 联系我们
+如果您对我们的隐私政策及本协议其他内容的处理有任何疑问、意见、建议或投诉，请通过以下方式与我们联系。
+
+联系邮箱：inmanfu@gmail.com 如有更多问题，请联系客服反馈
+
+本隐私政策版本更新日期为2020年10月21日13：00，将于2020年10月21日13：00正式生效。
